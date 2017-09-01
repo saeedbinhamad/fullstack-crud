@@ -1,4 +1,4 @@
-fullstack-nanodegree-vm
+fullstack-crud-vm
 =============
 
-Common code for the Relational Databases and Full Stack Fundamentals courses
+Common code for Relational Databases and Fullstack starter VM.
